@@ -2,10 +2,15 @@
 Here you'll find a collection of projects that showcase my skills and interests in coding and development.
 
 ### [Game of Life](/GameOfLife)
-Programming language: Java
+Programming Language: Java
 
-Interface language: Norwegian
+User Interface Language: Norwegian
 ### [Python Snake Game](/PythonSnakeGame)
-Programming language: Python (of course :-)
+Programming Language: Python (of course :-)
 
-Interface language: English
+User Interface Language:: English
+
+### [Alpaca Election - An Android App](/AlpacaAndroidApp)
+Programming Language: Kotlin
+
+User Interface Language: Norwegian
