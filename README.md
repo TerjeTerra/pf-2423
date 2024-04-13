@@ -8,7 +8,7 @@ User Interface Language: Norwegian
 ### [Python Snake Game](/PythonSnakeGame)
 Programming Language: Python (of course :-)
 
-User Interface Language:: English
+User Interface Language: English
 
 ### [Alpaca Election - An Android App](/AlpacaAndroidApp)
 Programming Language: Kotlin
